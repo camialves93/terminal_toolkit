@@ -36,11 +36,12 @@ In the project folder, run: python main.py
 
 ## 📂 Project Structure
 
+```text
 terminal_toolkit/
 ├── main.py      # Menu principal e interação com o usuário
 ├── utils.py     # Funções utilitárias (lógica e cálculos)
 └── README.md    # Documentação do projeto
-
+```
 
 ---
 
