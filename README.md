@@ -1,4 +1,4 @@
-# Terminal Toolkit 🧰
+# Terminal Toolkit 🧰⛏️
 
 A beginner-friendly Python project that runs in the terminal and demonstrates core programming concepts such as functions, conditionals, loops, and error handling.
 
@@ -16,7 +16,7 @@ This project was created for **study and portfolio purposes** as part of a Pytho
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
 - Terminal / Command Line
@@ -66,4 +66,4 @@ It was built for learning, experimentation, and portfolio demonstration.
 
 ### 👩‍💻 Author
 Camilla Alves
-🔗 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
+🔗 LinkedIn: https://www.linkedin.com/in/camillaalves9395/ 
