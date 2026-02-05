@@ -46,12 +46,12 @@ terminal_toolkit/
 ## 🎯 Learning Goals
 This project helped practice:
 
-Functions and return values
-if / elif / else
-while loops
-try / except error handling
-User input with input()
-Code organization across files
+- Functions and return values
+- if / elif / else
+- while loops
+- try / except error handling
+- User input with input()
+- Code organization across files
 
 ## 📌 Notes
 This is a beginner project focused on learning logic and code organization.
