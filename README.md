@@ -47,15 +47,10 @@ terminal_toolkit/
 This project helped practice:
 
 Functions and return values
-
 if / elif / else
-
 while loops
-
 try / except error handling
-
 User input with input()
-
 Code organization across files
 
 ## 📌 Notes
@@ -66,4 +61,5 @@ It was built for learning, experimentation, and portfolio demonstration.
 
 ### 👩‍💻 Author
 Camilla Alves
+
 🔗 LinkedIn: https://www.linkedin.com/in/camillaalves9395/ 
